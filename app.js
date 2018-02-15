@@ -1,4 +1,4 @@
-var Fortunes = [
+var fortunesList = [
 "A fresh start will put you on your way.",
 "A friend asks only for your time not your money.",
 "A friend is a present you give yourself.",
