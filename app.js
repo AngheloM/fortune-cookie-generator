@@ -1,3 +1,4 @@
+
 var fortunesList = [
 "A fresh start will put you on your way.",
 "A friend asks only for your time not your money.",
@@ -10,3 +11,11 @@ var fortunesList = [
 "A lifetime of happiness lies ahead of you.",
 "A light heart carries you through all the hard times."
 ]
+
+for(i = 0; i < 1; i++){
+  console.log(fortunesList[i])
+}
+
+
+
+
